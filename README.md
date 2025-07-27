@@ -2,7 +2,7 @@
 This project applies deep learning and computer vision techniques to accurately **segment insects in paddy field images** using the **Mask Region-based Convolutional Neural Network (Mask-RCNN)** framework. It aims to enhance pest detection and enable efficient pest control through early and accurate insect identification.
 
 
-Insects like rice leafhoppers and stem borers severely affect paddy crop yield. Traditional pest detection methods—such as manual inspection—are time-consuming, error-prone, and inefficient at scale. This project leverages **instance segmentation** using **polygonal annotations** to overcome these challenges and automate pest detection.
+Insects like rice leafhoppers and stem borers severely affect paddy crop yield. Traditional pest detection methods—such as manual inspection are time-consuming, error-prone, and inefficient at scale. This project leverages **instance segmentation** using **polygonal annotations** to overcome these challenges and automate pest detection.
 
 ## Key Features
 
